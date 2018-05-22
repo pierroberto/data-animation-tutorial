@@ -37,7 +37,10 @@ document.addEventListener("DOMContentLoaded", event => {
     tooltips: {
       enabled: true,
       backgroundColor: '#5991AF',
-      opacity: 0.5,
+    },
+
+    legend: {
+      display: false,
     },
   }
 
